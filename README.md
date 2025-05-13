@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Naing Htoo Lwin</h1>
 <h3 align="center">An international student from Myanmar studying in University of Sheffield</h3>
 
+- 🔭 I’m currently working on **UniConnect, University Mentoring Scheme Webapp**
+
+- 🌱 I’m currently learning **Full Stack Development**
+
 - 📫 How to reach me **nainghtoolwin1385@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
