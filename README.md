@@ -1,21 +1,85 @@
-<h1 align="center">Hi 👋, I'm Naing Htoo Lwin</h1>
-<h3 align="center">An international student from Myanmar studying in University of Sheffield</h3>
+<!-- Banner / Typing Animation -->
+<h1 align="center">Hi 👋, I'm Naing Htoo Lwin @ Finn</h1>
+<h3 align="center">2nd-Year Computer Science Student @ University of Sheffield</h3>
 
-- 🔭 I’m currently working on **UniConnect, University Mentoring Scheme Webapp**
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 📫 How to reach me **nainghtoolwin1385@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/finnxiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="finnxiii" height="30" width="40" /></a>
-<a href="https://instagram.com/finnxiii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="finnxiii_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Software+Developer+in+the+making;Mobile+App+Dev+Learner;Discord+Bot+Builder;Always+Learning%2C+Always+Building" alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=finnxiii&show_icons=true&locale=en&layout=compact" alt="finnxiii" /></p>
+## 🛠️ Tech Stack
+<p>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finnxiii&show_icons=true&locale=en" alt="finnxiii" /></p>
+<p>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+- ♻️ **Gemini Waste Sorter**  
+  *A smart AI-powered waste classification project that promotes sustainable recycling.*
+
+- 📊 **Traffic Log Analyzer**  
+  *Analyzed and visualized large-scale event logs to uncover key patterns and insights.*
+  
+- 🎶 **Discord Music Bot (WIP)**  
+  *Exploring Node.js and discord.js to stream and sync music in servers.*  
+
+- 📱 **Budget Tracker App (WIP)**  
+  *React Native app designed for university students to track expenses.*  
+
+---
+
+## 🌱 Currently Learning
+- React Native (mobile app development)  
+- Node.js + discord.js (for Discord bots)  
+- Advanced Git & collaboration workflows  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=finnxiii&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnxiii&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
+</p>
+
+---
+
+## ✨ Fun Facts
+- 🖥️ I enjoy building projects that **solve real-world problems**  
+- 🤝 Active member of Sheffield **Computer Science Society (CompSoc)**  
+- 🍎 Big fan of Apple’s tech & design philosophy   
+
+---
+
+## 📫 Let’s Connect
+<p>
+  <a href="https://linkedin.com/in/finnxiii" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/finnxiii" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ *“Always learning, always building.”*  
