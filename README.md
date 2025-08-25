@@ -65,7 +65,6 @@
 
 ## ✨ Fun Facts
 - 🖥️ I enjoy building projects that **solve real-world problems**  
-- 🤝 Active member of Sheffield **Computer Science Society (CompSoc)**  
 - 🍎 Big fan of Apple’s tech & design philosophy   
 
 ---
