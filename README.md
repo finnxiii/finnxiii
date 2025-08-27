@@ -64,8 +64,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=finnxiii&show_icons=true&theme=tokyonight&cache_seconds=0" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnxiii&layout=compact&theme=tokyonight&cache_seconds=0" alt="Top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=finnxiii&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnxiii&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="35%" />
 </p>
 
 ---
