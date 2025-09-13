@@ -47,8 +47,8 @@
 - 📊 **Traffic Log Analyzer** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/traffic-log-analyzer)   
   *Analyzed and visualized large-scale event logs to uncover key patterns and insights.*
   
-- 🎶 **Discord Music Bot (WIP)**  
-  *Exploring Node.js and discord.js to stream and sync music in servers.*  
+- 🤖 **NextGig Discord Job Finder Bot** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/nextgig-discord-bot)  
+  *A smart bot that helps users to find jobs, internships and part-time opportunities directly in Discord.*  
 
 - 📱 **Budget Tracker App (WIP)**  
   *React Native app designed for university students to track expenses.*  
