@@ -50,14 +50,10 @@
 - 🤖 **NextGig Discord Job Finder Bot** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/nextgig-discord-bot)  
   *A smart bot that helps users to find jobs, internships and part-time opportunities directly in Discord.*  
 
-- 📱 **Budget Tracker App (WIP)**  
-  *React Native app designed for university students to track expenses.*  
-
 ---
 
 ## 🌱 Currently Learning
-- React Native (mobile app development)  
-- Node.js + discord.js (for Discord bots)  
+- Kotlin and Jetpack Compose 
 - Advanced Git & collaboration workflows  
 
 ---
