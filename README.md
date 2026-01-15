@@ -1,85 +1,70 @@
 <!-- Banner / Typing Animation -->
-<h1 align="center">Hi 👋, I'm Naing Htoo Lwin @ Finn</h1>
-<h3 align="center">Computer Science Student @ University of Sheffield</h3>
+<h1 align="left" style="font-size: 48px;">
+  Hello, World! I am Finn;
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Software+Developer+in+the+making;Mobile+App+Dev+Learner;Discord+Bot+Builder;Always+Learning%2C+Always+Building" alt="Typing Animation" />
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=6A5ACD&center=false&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Full-Stack+Developer;Mobile+Developer;Building+Innovative+Projects;Always+Learning,+Always+Improving" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## My Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-### ⚛️ Frameworks & Libraries
+### Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord.js" />
+  <img src="https://img.shields.io/badge/Sinatra-000000?style=for-the-badge&logo=ruby&logoColor=white" alt="Sinatra" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-- ♻️ **Gemini Waste Sorter** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/gemini-waste-sorter)   
+## My Featured Projects
+- **Gemini Waste Sorter** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/gemini-waste-sorter)   
   *A smart AI-powered waste classification project that promotes sustainable recycling.*
 
-- 📊 **Traffic Log Analyzer** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/traffic-log-analyzer)   
+- **Traffic Log Analyzer** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/traffic-log-analyzer)   
   *Analyzed and visualized large-scale event logs to uncover key patterns and insights.*
   
-- 🤖 **NextGig Discord Job Finder Bot** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/nextgig-discord-bot)  
+- **NextGig Discord Job Finder Bot** [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/finnxiii/nextgig-discord-bot)  
   *A smart bot that helps users to find jobs, internships and part-time opportunities directly in Discord.*  
 
 ---
 
-## 🌱 Currently Learning
-- Kotlin and Jetpack Compose 
-- Advanced Git & collaboration workflows  
-
----
-
-## 📊 GitHub Stats
+## My Stats
 <p align="center">
   <!-- GitHub stats -->
-  <img src="https://github-readme-stats-murex-rho-57.vercel.app/api?username=finnxiii&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats-murex-rho-57.vercel.app/api?username=finnxiii&show_icons=true&theme=tokyonight&card_width=450" alt="GitHub Stats" width="45%" height="150px" />
   <!-- Top languages -->
-  <img src="https://github-readme-stats-murex-rho-57.vercel.app/api/top-langs/?username=finnxiii&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-murex-rho-57.vercel.app/api/top-langs/?username=finnxiii&layout=compact&theme=tokyonight&card_width=450" alt="Top Languages" width="45%" height="150px" />
 </p>
 
 ---
 
-## ✨ Fun Facts
-<p>
-  <img src="https://img.shields.io/badge/Problem%20Solver-blue?style=for-the-badge&logo=appveyor&logoColor=white" alt="Problem Solver" />
-  <img src="https://img.shields.io/badge/Apple%20Fan-999999?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Fan" />
-  <img src="https://img.shields.io/badge/Music%20Lover-purple?style=for-the-badge&logo=spotify&logoColor=white" alt="Music Lover" />
-  <img src="https://img.shields.io/badge/Tech%20Enthusiast-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Tech Enthusiast" />
-  <img src="https://img.shields.io/badge/Lifelong%20Learner-orange?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Lifelong Learner" />
-</p>
-
----
-
-## 📫 Let’s Connect
+## Let’s Connect!
 <p>
   <a href="https://linkedin.com/in/finnxiii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -91,4 +76,3 @@
 
 ---
 
-⭐️ *“Always learning, always building.”*  
