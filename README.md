@@ -1,6 +1,6 @@
 <!-- Banner / Typing Animation -->
 <h1 align="center">Hi 👋, I'm Naing Htoo Lwin @ Finn</h1>
-<h3 align="center">2nd-Year Computer Science Student @ University of Sheffield</h3>
+<h3 align="center">Computer Science Student @ University of Sheffield</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Software+Developer+in+the+making;Mobile+App+Dev+Learner;Discord+Bot+Builder;Always+Learning%2C+Always+Building" alt="Typing Animation" />
@@ -60,8 +60,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=finnxiii&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnxiii&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" width="35%" />
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats-murex-rho-57.vercel.app/api?username=finnxiii&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" />
+  <!-- Top languages -->
+  <img src="https://github-readme-stats-murex-rho-57.vercel.app/api/top-langs/?username=finnxiii&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 ---
