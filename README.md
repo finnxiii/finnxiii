@@ -1,11 +1,10 @@
 <!-- Banner / Typing Animation -->
-<h1 align="left" style="font-size: 48px;">
+<samp align="left" style="font-size: 48px;">
   Hello, World! I am Finn;
-</h1>
-
+</samp>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=6A5ACD&center=false&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Full-Stack+Developer;Mobile+Developer;Building+Innovative+Projects;Always+Learning,+Always+Improving" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=6A5ACD&center=false&vCenter=true&width=700&lines=Software+Engineer+in+the+making;Full-Stack+Developer;Mobile+Developer;Building+Innovative+Projects;Always+Learning,+Always+Improving" alt="Typing Animation" />
 </p>
 
 ---
