@@ -1,3 +1,5 @@
+<br>
+
 <!-- Banner / Typing Animation -->
 <samp align="left" style="font-size: 48px;">
   Hello, World! I am Finn;
@@ -64,3 +66,5 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<br>
